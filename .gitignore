@@ -172,4 +172,4 @@ cython_debug/
 *.webm
 *.wmv
 
-.sass-cache
+output/
